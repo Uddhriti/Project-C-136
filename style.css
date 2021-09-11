@@ -1,0 +1,31 @@
+body{
+background-size: cover;
+background-position: center;
+}
+.heading{
+width: 100%;
+font-size: 25px;
+margin-top: 0px;
+padding: 10px;
+background-color: cornflowerblue;
+}
+#status{
+font-size: 18px;
+}
+canvas{
+color: orange;
+box-shadow: 5px 5px 5px gray;
+border-radius: 10px;
+margin-top: 160px;
+}
+p{
+    font-size: 15px;
+    color: black;
+    background-color: cyan;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+label{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
